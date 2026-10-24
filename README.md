@@ -1,4 +1,4 @@
-# KISSAN-CONNECT
+# KISAN-CONNECT
 AgriPrice Connect: Real-time Market Prediction for Agricultural Commodities
 Project Overview
 
