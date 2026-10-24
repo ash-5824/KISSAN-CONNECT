@@ -1,8 +1,8 @@
 # KISAN-CONNECT
-AgriPrice Connect: Real-time Market Prediction for Agricultural Commodities
+Kisan Connect: Real-time Market Prediction for Agricultural Commodities
 Project Overview
 
-AgriPrice Connect empowers farmers and agricultural professionals to make informed decisions by providing real-time price prediction for various crops. We leverage cutting-edge AI technology, including Gemma 2.2B, to unlock insights from historical market data and generate accurate predictions.
+Kisan Connect empowers farmers and agricultural professionals to make informed decisions by providing real-time price prediction for various crops. We leverage cutting-edge AI technology, including Gemma 2.2B, to unlock insights from historical market data and generate accurate predictions.
 
 Features:
 
